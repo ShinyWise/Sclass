@@ -1,1 +1,1 @@
-Mau bikin aplikasi crud 
+Mau bikin aplikasi crud dengan 2 fitur utama
